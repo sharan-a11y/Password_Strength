@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background: #49464b;
+    background: url('password.jpg') no-repeat;
+    background-size: cover;
 }
 #heading{
     color: white;
@@ -16,7 +17,6 @@ body{
 .container{
     height: 50vh;
     width: 100%;
-    background: #49464b;
     display: flex;
     align-items: center;
     justify-content: center;
